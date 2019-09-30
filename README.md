@@ -3,7 +3,7 @@ Un repositorio explicando el proceso para construir un agente que detecta caída
 
 
 Equipo:
-Carlos Isaza
-Nils Beck
-Jesus Chavarro
+Carlos Isaza,
+Nils Beck,
+Jesus Chavarro,
 Gabriel Lozano
